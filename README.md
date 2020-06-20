@@ -1,6 +1,7 @@
 # Mocha and Chai
 
 This project is in order to solve codewares problems.
+this project is using: ECMAScript 5
 
 ## Prerequisites 🚀
 
@@ -15,10 +16,6 @@ This project is in order to solve codewares problems.
 ## Usage (Execute Tests) ⚙️
 
 1. npm test: Execute all tests
-
-Note: You can see for more details:
-
-- URL confluence (in construction)
 
 ## Contributing 🖇️
 
