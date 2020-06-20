@@ -1,0 +1,24 @@
+{
+  "name": "javascript-codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js --reporter mocha-simple-html-reporter --reporter-options output=reports/report.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardSeverich/javascript-codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardSeverich/javascript-codewars/issues"
+  },
+  "homepage": "https://github.com/RichardSeverich/javascript-codewars#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "6.0.2",
+    "mocha-simple-html-reporter": "1.1.0"
+  }
+}
