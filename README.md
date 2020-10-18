@@ -15,7 +15,8 @@ this project is using: ECMAScript 5
 
 ## Usage (Execute Tests) ⚙️
 
-1. npm test: Execute all tests
+1. npm test: Execute all tests.
+2. execute single file: node <fileName.js>
 
 ## Contributing 🖇️
 
