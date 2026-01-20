@@ -1,5 +1,5 @@
 var assert = require("chai").assert;
-var binaryArrayToNumber = require("./../src/7kyuBinaryArrayToNumber");
+var binaryArrayToNumber = require("../../src/katas-000/7kyuBinaryArrayToNumber");
 
 describe("Binary array to number test", function () {
   it("Test number 1", function () {

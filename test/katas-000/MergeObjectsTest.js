@@ -1,5 +1,5 @@
 var assert = require("chai").assert;
-var mergeObjects = require("./../src/MergeObjects");
+var mergeObjects = require("./../src/katas-000/MergeObjects");
 
 describe("MergeObjects tests", function () {
   it("Test number 1", function () {

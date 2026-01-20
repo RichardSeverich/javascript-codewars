@@ -1,5 +1,5 @@
 var assert = require("chai").assert;
-var capitalize = require("./../src/Capitalize");
+var capitalize = require("../../src/katas-000/Capitalize");
 
 describe("Capitalize tests", function () {
   it("Test number 1", function () {

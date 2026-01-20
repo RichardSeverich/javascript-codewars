@@ -1,5 +1,5 @@
 var assert = require("chai").assert;
-var listDigits = require("./../src/ListDigits");
+var listDigits = require("../../src/katas-000/ListDigits");
 
 describe("List Digits Tests", function () {
 

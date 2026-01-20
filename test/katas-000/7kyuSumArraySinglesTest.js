@@ -1,5 +1,5 @@
 var assert = require("chai").assert;
-var sumArraySingles = require("./../src/7kyuSumArraySingles");
+var sumArraySingles = require("../../src/katas-000/7kyuSumArraySingles");
 
 describe("Sum array no repeat tests", function () {
   it("Test number 1", function () {

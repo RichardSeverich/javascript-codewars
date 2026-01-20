@@ -17,6 +17,8 @@ const reducer = (accumulator, currentValue) => {
     ? newObject[property] = currentValue[property]
     : newObject[property] = `${accumulator[property]}, ${currentValue[property]}`;
   }
+  // retorna el valor a acomulador
+  // retorna el nuevo acumulador para la siguiete iteracion.
   return newObject
 }
 
